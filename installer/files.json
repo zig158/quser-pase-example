@@ -1,0 +1,14 @@
+[
+	{
+		"file":"curl.zip",
+		"izZip":true,
+		"replace":true,
+		"remove":true,
+	},
+	{
+		"file":"ghostscript.zip",
+		"izZip":true,
+		"replace":true,
+		"remove":true,
+	}
+]
